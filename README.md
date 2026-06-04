@@ -1,1 +1,4 @@
 # web-developer-full-stack-
+
+I START WEB DEVEPLOMENT
+FOR MY UNDERSTANDING
